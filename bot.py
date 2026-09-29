@@ -4,7 +4,7 @@ from flask import Flask
 
 IQ_EMAIL = "warriboelijah6@gmail.com"
 IQ_PASSWORD = "Raju@1990"
-TELEGRAM_TOKEN = "8862479772:AAFhQNwgi0hnYxAz6OzdT-pjnVUZE4ZBvxk"
+TELEGRAM_TOKEN = "import os.environ.get 
 CHAT_ID = "8609943735"
 PAIRS = ["GBPJPY-OTC", "EURUSD-OTC", "EURJPY-OTC", "GBPUSD-OTC"]
 
